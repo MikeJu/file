@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://47.91.217.39/resources/ipa/futures_v1.1.0.ipa</string>
+					<string>http://39.108.137.83/resources/ipa/futures_v1.4.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://47.91.217.39/resources/site/logo.png</string>
+					<string>http://39.108.137.83/resources/site/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>waben.DayDayFutures.cn</string>
 				<key>bundle-version</key>
-				<string>1.1.0</string>
+				<string>1.4.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>天天期货</string>
+				<string>赢透国际期货</string>
 				<key>subtitle</key>
-				<string>天天期货</string>
+				<string>赢透国际期货</string>
 			</dict>
 		</dict>
 	</array>
